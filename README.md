@@ -14,14 +14,14 @@ There are somethings about me
 ![python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python&logoColor=black)
 ![html5](https://img.shields.io/badge/-Html5-pink?style=flat-square&logo=Html5&logoColor=black)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PixelSkider&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImKalud&layout=compact)
 
 ### 2.My projects
 (also little less...🤣)
 
 (I failed...😅)
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=pixelskider&show_icons=true)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImKalud&show_icons=true)
 
 ### 3.My info
 
