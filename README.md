@@ -1,4 +1,4 @@
-### 欢迎来到我的个人界面 🥰 以下是我的一些信息 更多的请访问我的博客
+### 欢迎来到我的个人界面 🥰 
 
 ### 1.项目语言
 ![java](https://img.shields.io/badge/-Java-pink?style=flat-square&logo=OpenJDK&logoColor=black)
@@ -11,4 +11,4 @@
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImKalud&show_icons=true)
 
 ### 3.个人信息
-我是一个中国的学生 喜欢编程
+我是一个中国的学生 喜欢编程 更多的信息可以通过我的博客了解
