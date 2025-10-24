@@ -1,6 +1,5 @@
-### 欢迎来到我的GitHub界面 🥰 Too Infinity🔗
+### 欢迎来到我的个人界面 🥰 以下是我的一些数据
 
-我的一些数据
 ### 1.项目语言
 ![java](https://img.shields.io/badge/-Java-pink?style=flat-square&logo=OpenJDK&logoColor=black)
 ![kotlin](https://img.shields.io/badge/-Kotlin-pink?style=flat-square&logo=kotlin&logoColor=black)
