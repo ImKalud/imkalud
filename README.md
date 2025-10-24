@@ -1,4 +1,4 @@
-### 欢迎来到我的个人界面 🥰 以下是我的一些信息 更多的请看我的博客
+### 欢迎来到我的个人界面 🥰 以下是我的一些信息 更多的请访问我的博客
 
 ### 1.项目语言
 ![java](https://img.shields.io/badge/-Java-pink?style=flat-square&logo=OpenJDK&logoColor=black)
